@@ -6,5 +6,7 @@
 	<display-name>jqueryPlugin</display-name>
     <!-- 关于jquery的一些插件 -->
     
+    <!-- imgPreviewQs 上传图片预览，支持IE6、IE7、IE8、IE9、IE10、IE11。 火狐、Chrome-->
+    
     
 </web-app>
